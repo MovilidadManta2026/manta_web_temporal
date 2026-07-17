@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1100" viewBox="0 0 900 1100">
+<rect width="900" height="1100" fill="#f4fbff"/>
+<rect width="900" height="170" fill="#064782"/>
+<text x="450" y="80" font-family="Arial" font-size="40" fill="#fff" text-anchor="middle" font-weight="900">CONVOCATORIA PÚBLICA</text>
+<text x="450" y="125" font-family="Arial" font-size="24" fill="#fff" text-anchor="middle">Servicio de grúas, remolque y custodia vehicular</text>
+<text x="450" y="300" font-family="Arial" font-size="55" fill="#064782" text-anchor="middle" font-weight="900">MOVILIDAD DE MANTA EP</text>
+<text x="450" y="390" font-family="Arial" font-size="30" fill="#333" text-anchor="middle">Consulta las bases, requisitos y cronograma</text>
+<rect x="220" y="500" width="460" height="78" rx="10" fill="#149BD7"/>
+<text x="450" y="550" font-family="Arial" font-size="28" fill="#fff" text-anchor="middle" font-weight="800">VER DOCUMENTACIÓN</text>
+<text x="450" y="1000" font-family="Arial" font-size="20" fill="#666" text-anchor="middle">Reemplaza esta imagen por el arte oficial de la convocatoria.</text>
+</svg>

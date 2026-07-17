@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Convocatoria Grúas | Movilidad de Manta EP</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body class="inner-page">
+  <header class="convocatoria-hero">
+    <div class="convocatoria-hero-overlay">
+      <a class="back-link back-link-hero" href="index.html">← Volver al inicio</a>
+      <div class="convocatoria-hero-content">
+        <img class="convocatoria-logo" src="assets/logos/logo-principal.jpeg" alt="Movilidad de Manta EP" />
+        <h1>Convocatoria Pública</h1>
+        <p>Servicio de grúas, remolque, traslado y custodia vehicular</p>
+      </div>
+    </div>
+  </header>
+
+  <main class="conv-container">
+    <section class="conv-intro">
+      <h2>
+        CONVOCATORIA PÚBLICA PARA LA PRESTACIÓN DEL SERVICIO DE GRÚAS, REMOLQUE,
+        TRASLADO Y CUSTODIA VEHICULAR PARA EL CANTÓN MANTA
+      </h2>
+      <p>
+        Documentación oficial del proceso público. Descarga las bases, cronograma, tarifario,
+        requisitos y formularios disponibles para los participantes.
+      </p>
+    </section>
+
+    <h3 class="process-title">Documentos disponibles</h3>
+
+    <table class="docs-table" aria-label="Documentos de convocatoria grúas">
+      <tbody>
+        <tr>
+          <td>
+            <strong>1. Bases Concurso Público Grúas 2026</strong>
+            <span>Documento base del concurso público.</span>
+          </td>
+          <td>
+            <a class="btn-descarga" href="documentos/convocatoria_gruas/BASES CONCURSO PUBLICO GRUAS 2026.pdf" target="_blank" rel="noopener">Descargar</a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <strong>2. Cronograma y Tarifario Proceso Grúas</strong>
+            <span>Cronograma del proceso y tarifario correspondiente.</span>
+          </td>
+          <td>
+            <a class="btn-descarga" href="documentos/convocatoria_gruas/CRONOGRAMA Y TARIFARIO PROCESO GRUAS borrador-signed-signed-signed.pdf" target="_blank" rel="noopener">Descargar</a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <strong>3. Requisitos y Formularios para Concurso Público Grúas</strong>
+            <span>Archivo editable con requisitos y formularios de participación.</span>
+          </td>
+          <td>
+            <a class="btn-descarga" href="documentos/convocatoria_gruas/REQUISITOS Y FORMULARIOS PARA CONCURSO PUBLICO GRUAS.docx" target="_blank" rel="noopener">Descargar</a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <strong>4. Acta</strong>
+            <span>Acta.</span>
+          </td>
+          <td>
+            <a class="btn-descarga" href="documentos/convocatoria_gruas/" target="_blank" rel="noopener">Descargar</a>
+          </td>
+        </tr>
+
+
+
+
+      </tbody>
+    </table>
+  </main>
+</body>
+</html>
