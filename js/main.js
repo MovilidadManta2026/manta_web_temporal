@@ -85,7 +85,7 @@ if (modal) {
   });
 }
 
-// Popup inicial de convocatoria
+/* Popup inicial de convocatoria
 const welcomePopup = document.getElementById('welcomePopup');
 const welcomePopupClose = document.getElementById('welcomePopupClose');
 
@@ -108,3 +108,5 @@ if (welcomePopup) {
     }
   });
 }
+
+*/
